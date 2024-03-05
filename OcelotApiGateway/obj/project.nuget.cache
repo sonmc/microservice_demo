@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rodjz/gQbVrqrEHMOJ/8nwxiVW5p4mTPbVzUZxByfn4p8glhrlkB7XM1CFc5hHcCKPN+1wCHbdA/EsOqGelkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ProjectStudy\\ApiGatewayUsingOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.0.0\\microsoft.aspnetcore.middlewareanalysis.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.0.0\\microsoft.extensions.diagnosticadapter.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\ocelot\\14.0.11\\ocelot.14.0.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
